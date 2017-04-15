@@ -2,4 +2,4 @@
 Bridging gaps within the realm of feasibility
 
 ## Projects
- - [AudioPick](https://necropola.github.io/AudioPick/)
+ - [AudioPick](https://rain-fighters.github.io/AudioPick/) by [Necropola](https://necropola.github.io/)
