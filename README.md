@@ -1,4 +1,4 @@
-# rain-fighters.github.io
+# Rain Fighters
 Bridging gaps within the realm of feasibility
 
 ## Members
