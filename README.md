@@ -1,5 +1,5 @@
 # rain-fighters.github.io
-Bridging the gaps within the realm of feasibility
+Bridging gaps within the realm of feasibility
 
 ## Members
 - [Necropola](https://necropola.github.io)
