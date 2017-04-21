@@ -30,10 +30,15 @@
 		(document, "script", "twitter-wjs"));
 	</script>	  
     <meta name="twitter:card" value="summary" />
+	<meta name="twitter:site:id" value="@necropola" />
+	<meta name="twitter:creator" value="@necropola" />
+	<meta name="twitter:title" value="{{ site.title | default: site.github.repository_name }}" />
+	<meta name="twitter:description" value="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}" />
+    <meta name="twitter:image" content="https://{{site.github.repository_name}}/assets/images/rain-fighters-preview-960x960.png" />
     <meta property="og:title" content="{{ site.title | default: site.github.repository_name }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://{{site.github.repository_name}}/" />
-    <meta property="og:image" content="https://{{site.github.repository_name}}/assets/images/rain-fighters-logo-gen1-640x640.png" />
+    <meta property="og:image" content="https://{{site.github.repository_name}}/assets/images/rain-fighters-preview-960x960.png" />
     <meta property="og:description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}" />
     {% if site.google_analytics %}
     <!-- Google Analytics -->
