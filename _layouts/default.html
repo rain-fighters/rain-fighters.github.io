@@ -6,11 +6,29 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	<link rel="shortcut icon" type="image/png" href="./assets/images/rain-fighters-logo-gen1-640x640.png">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+	<title>{{ site.title | default: site.github.repository_name }}</title>
     
     <!-- Social media -->
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
+	<script>window.twttr = (function(d, s, id) {
+  		var js, fjs = d.getElementsByTagName(s)[0],
+    	t = window.twttr || {};
+  		if (d.getElementById(id)) return t;
+  		js = d.createElement(s);
+  		js.id = id;
+  		js.src = "https://platform.twitter.com/widgets.js";
+  		fjs.parentNode.insertBefore(js, fjs);
+  		t._e = [];
+  		t.ready = function(f) {
+    	t._e.push(f);
+  		};
+  		return t;
+		}
+		(document, "script", "twitter-wjs"));
+	</script>	  
     <meta name="twitter:card" value="summary" />
     <meta property="og:title" content="{{ site.title | default: site.github.repository_name }}" />
     <meta property="og:type" content="article" />
@@ -45,6 +63,16 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}<br/>rain-fighters.net<br/>libreware.de</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
+			<div style="display:flex;justify-content: space-between;">
+				<div class="g-plus" data-annotation="bubble" data-height="24" data-action="share" style="witdh:auto%;"></div>
+				<a class="twitter-share-button" style="width:auto;"
+					href="https://twitter.com/share"
+				   	data-size="large"
+				    data-text="#AudioPick"
+				    data-via="necropola"
+				   	data-url="{{ site.url }}{{ site.baseurl }}/">Tweet</a>
+			</div> <!-- href="https://twitter.com/intent/tweet" -->
+			
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
