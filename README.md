@@ -5,7 +5,7 @@ So, you are using some (probably closed source) software and desperately wish fo
 ## LibreWare
 Whenever we are able to help, we will publish our solution as **Open Source** licensed under **GPL 3.0** on **GitHub**. You will never have to pay for any *libreware/rain-fighters* product, but you will have the **liberty** to pay for it (throw some money to the creators). Any such voluntary payment is **a tip** and **not a donation**. It's income for the creators and taxes apply. We take pride in paying our taxes but hate how complicated legislation sometimes is.
 
-# Projects
+## Projects
  - [AudioPick](https://rain-fighters.github.io/AudioPick/) by [Necropola](https://necropola.github.io/)
  - [AudioPick Source on GitHub](https://github.com/rain-fighters/AudioPick/)
  - [AudioPick Extension on Chrome Webstore](https://chrome.google.com/webstore/detail/audiopick/gfhcppdamigjkficnjnhmnljljhagaha)
