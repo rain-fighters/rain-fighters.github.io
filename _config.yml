@@ -8,7 +8,7 @@ gems:
  
 defaults:
   -
-    scope:
+    scope: 
 	  path: ""
-	values:
+	values: 
 	  image: /assets/images/rain-fighters-preview-940x940.png
