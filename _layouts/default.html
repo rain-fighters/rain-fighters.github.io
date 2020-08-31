@@ -10,7 +10,11 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     
 	<title>{{ site.title | default: site.github.repository_name }}</title>
-    	  
+	<meta property="og:title" content="{{ site.title | default: site.github.repository_name }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://{{site.github.repository_name}}/" />
+	<meta property="og:image" content="https://{{site.github.repository_name}}/assets/images/rain-fighters-preview-940x940.png" />
+	<meta property="og:description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}" />
     {% seo %}
   </head>
 
