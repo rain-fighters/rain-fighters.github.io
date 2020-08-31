@@ -5,3 +5,10 @@ gems:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-seo-tag
+ 
+defaults:
+  -
+    scope:
+	  path: ""
+	values:
+	  image: /assets/images/rain-fighters-preview-940x940.png
