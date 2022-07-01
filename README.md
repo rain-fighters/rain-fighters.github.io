@@ -1,7 +1,7 @@
 # Rain-Fighters
 Who wants to be **&#127783; Left out in the Rain**? We don't. Hence we love to **&#128736; Implement the Missing Feature or Link** that feels like it should have been there in the first place.
 
-## LibreWare
+## Free/Libre Open Source
 We publish our software as **Free/Libre Open Source** licensed under **GPL 3.0**. You will never have to pay for any **Rain-Fighters** software, but you can **[&#9749; Buy us a Coffee](https://www.buymeacoffee.com/rainfighters)**, if you like what we made.
 
 ## Privacy
