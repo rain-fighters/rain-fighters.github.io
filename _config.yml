@@ -10,4 +10,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/rain-fighters-preview-940x940.png
+      image: /assets/images/rain-fighters-preview-832x832.png
