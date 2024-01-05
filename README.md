@@ -2,7 +2,7 @@
 Who wants to be **&#127783; Left out in the Rain**? We don't. Hence we love to **&#128736; Implement the Missing Feature or Link** that feels like it should have been there in the first place.
 
 ## Free/Libre Open Source
-We publish this/our software as **Free/Libre Open Source** licensed under [**GPL-3.0**](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) to ensure that you have and continue to have the following four fundamental freedoms:
+We publish our software as **Free/Libre Open Source** licensed under [**GPL-3.0**](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) to ensure that you have and continue to have the following four fundamental freedoms:
 > - the freedom to use the software for any purpose,
 > - the freedom to change the software to suit your needs,
 > - the freedom to share the software with your friends and neighbors, and
