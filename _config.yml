@@ -1,11 +1,16 @@
 theme: jekyll-theme-slate
 google_site_verification: D5ixU_08KXu4tDMaycnskWkUtkC3kO5oKSb6NTsfXPE
 
-gems:
-  - jekyll-mentions
-  - jekyll-sitemap
+favicon: ./assets/images/rainfighters-192x192-dark-sphere.png
+logo: ./assets/images/rainfighters-512x512-dark-sphere.png
+
+plugins:
   - jekyll-seo-tag
- 
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+
 defaults:
   - scope:
       path: ""
