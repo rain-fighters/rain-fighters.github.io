@@ -10,7 +10,7 @@ We publish our software as **Free/Libre Open Source** licensed under [**GPL-3.0*
 
 &ndash; [The Foundations of the GPL](https://www.gnu.org/licenses/quick-guide-gplv3.html#the-foundations-of-the-gpl)
 
-While **Free/Libre Open Source** refers to **free** as in **free speech**, not as in **free beer**, we have also decided
+While **Free/Libre Open Source** refers to **free** as in **free speech**, not as in **free beer**, we have chosen
 - to not charge users for (a copy of) our software,
 - to not re-license our software under a non-GPL (commercial) license,
 - to not grant benefits or add additional features to/for users offering payment, and
@@ -23,7 +23,7 @@ Though we accept [&#10084;Gratuities](#gratuities).
 
 Our web pages are **static HTML documents** and do not set **cookies**. They do not contain any **JavaScript** code, unless it is required to provide a very specific function, e. g. local search, or to demonstrate some code in action.
 
-Our software, e. g. the **AudioPick** extension, also does not track usage data by itself, though you need to be aware that installing an extension from the **Chrome WebStore** and using it in **Chrome** generates usage data for the WebStore, e. g. how often the extension is installed. We have opted out of using **google-analytics** to track and evaluate usage data ourselves. Also note that downloading the extension from **GitHub** probably leaves a trace, too.
+Our software, e. g. the [**AudioPick**](https://rain-fighters.github.io/AudioPick) extension, does not track usage data by itself, though you need to be aware that installing an extension from the **Chrome WebStore** and using it in the **Chrome Browser** generates usage data which is shown on the **Chrome WebStore** and **Developer Dashboard**, e. g. how often the extension is installed. We have opted out of using **google-analytics** to track and evaluate usage data ourselves. Also note that downloading the extension from **GitHub** probably leaves a trace, too.
 
 If we get access to usage/user data, e. g. IP or email addresses, it's most likely unavoidable and we do our best to get rid of unneeded information, e. g. rotate log files of web servers we control. In any case, we do not transfer or even sell any usage/user data to 3rd parties.
 

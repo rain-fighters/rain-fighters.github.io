@@ -7,9 +7,12 @@ logo: ./assets/images/rainfighters-512x512-dark-sphere.png
 plugins:
   - jekyll-seo-tag
 
+markdown: kramdown
+
 kramdown:
   syntax_highlighter: rouge
   input: GFM
+  toc_levels: 2..6
 
 defaults:
   - scope:
